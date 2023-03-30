@@ -2,16 +2,16 @@
 <h3 align="center">software engineer</h3>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=asterisk-cn&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true" alt="asterisk-cn"/>
+  <img align="left" src="https://github-readme-stats-one-flax-73.vercel.app/api?username=asterisk-cn&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true" alt="asterisk-cn"/>
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asterisk-cn&show_icons=true&locale=en" alt="asterisk-cn"/>
+  <img align="center" src="https://github-readme-stats-one-flax-73.vercel.app/api/top-langs/?username=asterisk-cn&show_icons=true" alt="asterisk-cn"/>
 </p>
 <br clear="left">
 
 <h3 align="left">Contributed:</h3>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=decfrr&repo=Text-to-sound-Synthesis-Prompt2Prompt&show_owner=true"/>
+  <img align="center" src="https://github-readme-stats-one-flax-73.vercel.app/api/pin/?username=decfrr&repo=Text-to-sound-Synthesis-Prompt2Prompt&show_owner=true"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
