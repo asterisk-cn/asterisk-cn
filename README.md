@@ -11,7 +11,7 @@
 
 <h3 align="left">Contributed:</h3>
 <p>
-  <img align="center" src="https://github-readme-stats-one-flax-73.vercel.app/api/pin/?username=decfrr&repo=Text-to-sound-Synthesis-Prompt2Prompt&show_owner=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=decfrr&repo=Text-to-sound-Synthesis-Prompt2Prompt&show_owner=true"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
